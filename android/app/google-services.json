@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026093835562",
+    "project_id": "lyrics-app-7de36",
+    "storage_bucket": "lyrics-app-7de36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026093835562:android:eb6298add1cb15711b6a53",
+        "android_client_info": {
+          "package_name": "com.abelabebe313.lyrics_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5_8iXmYi2ke08BLFCo9zx2eLiTUuGomg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
